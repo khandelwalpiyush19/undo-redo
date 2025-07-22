@@ -13,5 +13,10 @@
   "dependencies": {
     "sharp": "^0.34.3",
     "uuid": "^11.1.0"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/khandelwalpiyush19/undo-redo.git"
+}
+
 }
